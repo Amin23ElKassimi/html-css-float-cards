@@ -17,8 +17,58 @@
 .float-right{
     float: right;
 }
-
-main{
-    width: 500px;
-    margin: auto;
+/* Background Colors */
+.background-black{
+    background-color: black;
 }
+/* Color Fonts */
+.font-pink {
+    color: #f71668;
+}
+.font-white{
+    color: white;
+}
+/* Fonts Family */
+.font-fredoka{
+    font-family: 'Fredoka', sans-serif;
+    margin-bottom: 4rem;
+    vertical-align: 2rem;
+}
+
+
+
+
+.main-container{
+    width: 65%;
+    margin: auto;
+    margin-top: 1rem;
+}
+header{
+    text-align:center;
+}
+
+.album{
+    width: 100%;
+    margin-top: 2rem;
+}
+
+/* Conteiner Size */
+.column-third{
+    width: 350px;
+    height: 120px;
+}
+.container-profile{
+    width: calc(100% / 3 - 10px);
+    line-height: 2.5rem;
+    margin: 20px 5px;
+}
+/* Profile IMG Size */
+.img-profile{
+    width: 120px;
+}
+
+
+
+
+
+
