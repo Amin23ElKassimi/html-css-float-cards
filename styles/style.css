@@ -1,0 +1,24 @@
+/* Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Floats Class */
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+
+main{
+    width: 500px;
+    margin: auto;
+}
