@@ -28,11 +28,13 @@
 .font-white{
     color: white;
 }
+.font-sky{
+    color: skyblue;
+}
+
 /* Fonts Family */
 .font-fredoka{
     font-family: 'Fredoka', sans-serif;
-    margin-bottom: 4rem;
-    vertical-align: 2rem;
 }
 
 
@@ -45,6 +47,9 @@
 }
 header{
     text-align:center;
+}
+.article{
+    margin-top: 3rem;
 }
 
 .album{
@@ -67,6 +72,9 @@ header{
     width: 120px;
 }
 
+text{
+    height: 100%;
+}
 
 
 
